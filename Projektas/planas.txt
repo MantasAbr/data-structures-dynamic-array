@@ -1,0 +1,10 @@
+sukurti automobilio klase
+programa bus naudojama kaip koks citybee app'sas
+automobilio konstruktorius:
+	Marke
+	Modelis
+	Kuro tipas (Dyzelis, benzas, hibridas)
+	Kuro kiekis (esamas)
+	Kaina uz diena
+	Ar uzimta?
+	Jeigu neuzimta, kokiame adrese ji palikta?

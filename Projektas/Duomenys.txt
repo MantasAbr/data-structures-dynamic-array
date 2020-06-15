@@ -1,0 +1,6 @@
+﻿BMW;X5;Dyzelinas;12.2;0.17;Taip;xd;
+Volkswagen;Golf;Benzinas;20.6;0.11;Ne;Pašilės g. 39;
+Fiat;500;Benzinas;7.3;0.09;Taip;test;
+Audi;A3;Dyzelinas;13.2;0.10;Ne;Studentų g. 50;
+Volkswagen;Passat;Dyzelinas;13.2;0.13;Ne;Vyduno al. 25;
+Honda;Civic;Benzinas;9.8;0.14;Ne;Studentų g. 71;
